@@ -1,0 +1,20 @@
+{
+  "name": "reactStopwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reactJSX",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "Agnieszka Matyja",
+  "license": "ISC",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "stat-mode": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  }
+}
