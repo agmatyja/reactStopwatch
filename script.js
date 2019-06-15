@@ -19,7 +19,7 @@ class StopWatch extends React.Component {
 			seconds: 0,
 			miliseconds: 0,
 			formatted: '',
-			watch: () => {}
+			watch: null
 		}
 	}
 	
